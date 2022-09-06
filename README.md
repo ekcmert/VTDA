@@ -9,7 +9,7 @@
 | İsmail Berat Düzenli  | iberat@sabanciuniv.edu  |Sabancı University, Computer Science |
 | Mert Ekici 		   |    ekicimert@sabanciuniv.edu  | Sabancı University, Computer Science & Economics|\
 
-Supervsior:                 Öznur Taştan
+Supervisor:                 Öznur Taştan
 
 
 # Installation
