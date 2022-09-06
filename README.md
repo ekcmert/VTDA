@@ -6,7 +6,7 @@ Contributors:\
 | Alper Büyükalaca    |   abuyukalaca@sabanciuniv.edu  |Sabancı University, Computer Science |
 | Eren Güngör	   |  erengungor@sabanciuniv.edu  | Sabancı University, Computer Science |
 | İdil Kapıkıran			   |  ikapikiran@sabanciuniv.edu  |Sabancı University, Computer Science |
-| İsmail Berat Düzenli  | iberat@sabanciuniv.edu  |Sabancı University, Computer Scienc |
+| İsmail Berat Düzenli  | iberat@sabanciuniv.edu  |Sabancı University, Computer Science |
 | Mert Ekici 		   |    ekicimert@sabanciuniv.edu  | Sabancı University, Computer Science & Economics|\
 
 Supervsior:                 Öznur Taştan
