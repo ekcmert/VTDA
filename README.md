@@ -1,8 +1,8 @@
 # VTDA - Visual Training Dynamics Analysis
 Contributors:\
 
-| Contributors      | E-mail || University |
-| ----------- | ----------- | | ----------- |
+| Contributors      | E-mail | University |
+| ----------- | ----------- | ----------- |
 | Alper Büyükalaca    |   abuyukalaca@sabanciuniv.edu  |Sabancı University, Computer Science |
 | Eren Güngör	   |  erengungor@sabanciuniv.edu  | Sabancı University, Computer Science |
 | İdil Kapıkıran			   |  ikapikiran@sabanciuniv.edu  |Sabancı University, Computer Science |
