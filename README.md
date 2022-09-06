@@ -1,5 +1,5 @@
 # VTDA - Visual Training Dynamics Analysis
-Contributors:\
+### Contributors:
 
 | Contributors      | E-mail | University |
 | ----------- | ----------- | ----------- |
